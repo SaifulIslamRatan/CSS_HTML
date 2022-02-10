@@ -1,3 +1,5 @@
+/*CSS_Basic_Selectors*/
+/*
 .Name{
     background-color: yellow;
 }
@@ -7,4 +9,33 @@
 #Name_again{
     background-color: black;
     color: white;
+}*/
+/*CSS_Border*/
+/*
+P{
+    border-style: dotted;
+}*/
+/*
+P{
+    border-style: solid;
+    border-width: 100px;
+    border-color: blue;
+
+}*/
+/*
+P{
+    border-style: solid dotted dashed double;
+    border-color: red black aqua chartreuse;
+    border-width: 5px 10px 15px 20px;
+
+}*/
+/*
+P{
+    border: 5px dotted slateblue;
+}*/
+p{
+    border-top: 5px double green;
+    border-right: 10px solid purple;
+    border-bottom: black dotted 15px;
+    border-left: yellowgreen 20px dotted;
 }
