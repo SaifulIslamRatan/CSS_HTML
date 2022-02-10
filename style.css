@@ -33,9 +33,19 @@ P{
 P{
     border: 5px dotted slateblue;
 }*/
+/*
 p{
     border-top: 5px double green;
     border-right: 10px solid purple;
     border-bottom: black dotted 15px;
     border-left: yellowgreen 20px dotted;
+}*/
+/*CSS_Outline*/
+p{
+    border: 2px solid red;
+    outline: solid;
+    outline: dashed;
+    outline-width: 20px;
+    outline-color: gray;
+    outline-offset: 10px;
 }
