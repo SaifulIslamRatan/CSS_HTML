@@ -41,6 +41,7 @@ p{
     border-left: yellowgreen 20px dotted;
 }*/
 /*CSS_Outline*/
+/*
 p{
     border: 2px solid red;
     outline: solid;
@@ -48,4 +49,14 @@ p{
     outline-width: 20px;
     outline-color: gray;
     outline-offset: 10px;
+}*/
+/*CSS_Width_&_Height*/
+div{
+    border: 5px solid red;
+    /*width: 2000px;*/
+    /*width: 700px;*/
+    width: 70%;
+    height: 100%;
+
+
 }
