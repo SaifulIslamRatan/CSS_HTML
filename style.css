@@ -68,9 +68,17 @@ div{
     max-width: 600px;
 }*/
 /*CSS_Min_Height_Max_Height*/
+/*
 div{
     border: 2px solid red;
     min-height: 100px;
     max-height: 200px;
+}*/
+/*CSS_Margin*/
+P{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
 }
 
