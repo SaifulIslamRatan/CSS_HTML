@@ -51,12 +51,12 @@ p{
     outline-offset: 10px;
 }*/
 /*CSS_Width_&_Height*/
+/*
 div{
     border: 5px solid red;
     /*width: 2000px;*/
     /*width: 700px;*/
+div{    
     width: 70%;
     height: 100%;
-
-
 }
