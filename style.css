@@ -75,10 +75,30 @@ div{
     max-height: 200px;
 }*/
 /*CSS_Margin*/
+/*
 P{
     margin-top: 100px;
     margin-right: 100px;
     margin-bottom: 100px;
     margin-left: 100px;
+}*/
+.fcontainer{
+    display: flex;
+    border: 2px solid gray;
+    height: 45vh;
+    /*flex-direction: column;*/
+    /* flex-direction: column-reverse; */
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    align-items: center;
+    align-items: flex-end;
+}
+
+.fitem{
+    margin: 20px;
+    width: 122px;
+    height: 122px;
+    background-color: red;
+    border: 2px solid black
 }
 
