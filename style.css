@@ -56,7 +56,14 @@ div{
     border: 5px solid red;
     /*width: 2000px;*/
     /*width: 700px;*/
-div{    
+/*div{    
     width: 70%;
     height: 100%;
+}*/
+/*CSS_Min_Width_and_Max_Width*/
+div{
+    border: 2px solid red;
+    min-width: 300px;
+    max-width: 600px;
 }
+
