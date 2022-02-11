@@ -61,9 +61,16 @@ div{
     height: 100%;
 }*/
 /*CSS_Min_Width_and_Max_Width*/
+/*
 div{
     border: 2px solid red;
     min-width: 300px;
     max-width: 600px;
+}*/
+/*CSS_Min_Height_Max_Height*/
+div{
+    border: 2px solid red;
+    min-height: 100px;
+    max-height: 200px;
 }
 
